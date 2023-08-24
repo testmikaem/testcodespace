@@ -1,0 +1,12 @@
+name: mytest
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - sympy
+  - pytest
+  - ipython
+  - pip
+  - fftw
